@@ -1,0 +1,10 @@
+# R environment and history
+*.RData
+*.rdata
+*.Rhistory
+*.rhistory
+.Rproj.user/
+
+# Report documents
+*.pdf
+*.docx

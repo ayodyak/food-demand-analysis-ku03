@@ -1,0 +1,4 @@
+Model,Formula
+Baseline MLR,daily_demand ~ day_of_week + month + prev_day_demand + prev_week_demand +      rolling_7_day_avg_demand
+Forward Selection,daily_demand ~ prev_week_demand + prev_day_demand + day_of_week +      month
+Backward Selection,daily_demand ~ day_of_week + month + prev_day_demand + prev_week_demand

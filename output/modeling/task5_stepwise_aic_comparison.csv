@@ -1,0 +1,4 @@
+Model,AIC,Number_of_Coefficients
+Baseline MLR,6426.865123241581,21
+Forward Selection,6424.887036265373,20
+Backward Selection,6424.887036265373,20

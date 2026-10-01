@@ -1,0 +1,6 @@
+Predictor,Correlation
+prev_week_demand,0.7866298021961271
+prev_day_demand,0.7078253266818022
+rolling_7_day_avg_demand,0.7076493711294695
+week_of_year,0.19454354393895074
+time_index,0.1289975873830924
